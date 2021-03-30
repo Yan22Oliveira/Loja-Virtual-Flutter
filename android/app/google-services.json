@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894692630744",
+    "firebase_url": "https://loja-virtual-flutter-a9976.firebaseio.com",
+    "project_id": "loja-virtual-flutter-a9976",
+    "storage_bucket": "loja-virtual-flutter-a9976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894692630744:android:8a1432cbde868b09c5b7ad",
+        "android_client_info": {
+          "package_name": "com.yanoliveira.loja_virtual_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894692630744-v5d6l7s6o1a4pgqkkf0e7s7jnlnhv7uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yanoliveira.loja_virtual_flutter",
+            "certificate_hash": "583718518e1181d03ae8fd8966deb25e1aa24cd8"
+          }
+        },
+        {
+          "client_id": "894692630744-9qvc9m5v1e6ph6l5uslp8t8jre8a8nkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx49z1B0suIYj5wkNS8R4_UOWFVCklgTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894692630744-9qvc9m5v1e6ph6l5uslp8t8jre8a8nkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
